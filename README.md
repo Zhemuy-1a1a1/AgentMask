@@ -1,8 +1,9 @@
-# One-File Agent Packs / 单文件 Agent 包
+# AgentMask · 单文件可导入 Agent 包
 
 <p align="center">
-  <strong>One file, one agent, ready to import and use.</strong><br />
-  <strong>一个文件，一个 Agent，拿去就能直接用。</strong>
+  <strong>One Markdown. One Soul.</strong><br />
+  <strong>戴上 AgentMask，化身专属专家。</strong><br />
+  <em>Importable one-file agent packs.</em>
 </p>
 
 <p align="center">
