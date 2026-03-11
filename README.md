@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-orange" /></a>
-  <a href="./agents/INDEX.md"><img alt="Packs" src="https://img.shields.io/badge/packs-10-blue" /></a>
+  <a href="./agents/INDEX.md"><img alt="Packs" src="https://img.shields.io/badge/packs-20-blue" /></a>
   <a href="./README.zh-CN.md"><img alt="Chinese" src="https://img.shields.io/badge/README-中文-red" /></a>
   <a href="./README.en.md"><img alt="English" src="https://img.shields.io/badge/README-English-green" /></a>
 </p>
@@ -171,3 +171,14 @@ You may **not** directly resell the open-source version for commercial use.
 | Habit Check-in Agent / 习惯打卡Agent | Habit tracking and accountability | [打开](./agents/习惯打卡Agent.md) | [open](./agents/habit-checkin-agent.md) |
 | English Speaking Coach / 英语口语陪练Agent | Daily speaking practice | [打开](./agents/英语口语陪练Agent.md) | [open](./agents/english-speaking-coach.md) |
 | Reading Notes Assistant / 读书笔记助手 | Reading notes and action takeaways | [打开](./agents/读书笔记助手.md) | [open](./agents/reading-notes-assistant.md) |
+
+
+### Study & Utility / 学习与工具向
+
+| Pack | What it helps with | Chinese file | English alias |
+|------|--------------------|--------------|---------------|
+| AI Image Prompt Agent / AI绘画提示词Agent | Image prompts and style ideas | [打开](./agents/AI绘画提示词Agent.md) | [open](./agents/ai-image-prompt-agent.md) |
+| Daily Update Assistant / 日报助手 | Daily updates and short status reports | [打开](./agents/日报助手.md) | [open](./agents/daily-update-assistant.md) |
+| Email Scheduling Assistant / 邮件日程自动化Agent | Emails and simple scheduling drafts | [打开](./agents/邮件日程自动化Agent.md) | [open](./agents/email-scheduling-assistant.md) |
+| Smart Home Assistant / 智能家居Agent | Smart-home scene ideas and routines | [打开](./agents/智能家居Agent.md) | [open](./agents/smart-home-assistant.md) |
+| Academic Research Agent / 学术研究Agent | Literature review and paper structure | [打开](./agents/学术研究Agent.md) | [open](./agents/academic-research-agent.md) |

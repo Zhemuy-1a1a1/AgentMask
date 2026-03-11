@@ -28,12 +28,13 @@ If you don't know where to start, choose based on the job you want done:
 
 ---
 
-## Recommended first 5 / 推荐先看这 5 个
+## Recommended first 6 / 推荐先看这 6 个
 1. [小红书运营助手](./小红书运营助手.md) / [xiaohongshu-operator.md](./xiaohongshu-operator.md)
 2. [旅行规划Agent](./旅行规划Agent.md) / [travel-planner-agent.md](./travel-planner-agent.md)
 3. [健康健身Agent](./健康健身Agent.md) / [健康健身-coach.md](./健康健身-coach.md)
 4. [客服回复助手](./客服回复助手.md) / [customer-support-assistant.md](./customer-support-assistant.md)
 5. [项目管理Agent](./项目管理Agent.md) / [project-manager-agent.md](./project-manager-agent.md)
+6. [英语口语陪练Agent](./英语口语陪练Agent.md) / [english-speaking-coach.md](./english-speaking-coach.md)
 
 ---
 
@@ -63,3 +64,16 @@ If you don't know where to start, choose based on the job you want done:
 | [习惯打卡Agent](./习惯打卡Agent.md) | [habit-checkin-agent.md](./habit-checkin-agent.md) | 习惯养成、打卡、复盘 |
 | [英语口语陪练Agent](./英语口语陪练Agent.md) | [english-speaking-coach.md](./english-speaking-coach.md) | 日常口语、陪练、纠错 |
 | [读书笔记助手](./读书笔记助手.md) | [reading-notes-assistant.md](./reading-notes-assistant.md) | 读书笔记、摘要、行动点 |
+
+
+---
+
+## Study & Utility / 学习与工具向
+
+| 中文文件 | English Alias | 适用场景 |
+|------|--------------|----------|
+| [AI绘画提示词Agent](./AI绘画提示词Agent.md) | [ai-image-prompt-agent.md](./ai-image-prompt-agent.md) | 画图 prompt、风格和构图方向 |
+| [日报助手](./日报助手.md) | [daily-update-assistant.md](./daily-update-assistant.md) | 日报、短汇报、状态同步 |
+| [邮件日程自动化Agent](./邮件日程自动化Agent.md) | [email-scheduling-assistant.md](./email-scheduling-assistant.md) | 邮件和会议安排 |
+| [智能家居Agent](./智能家居Agent.md) | [smart-home-assistant.md](./smart-home-assistant.md) | 家居联动和场景建议 |
+| [学术研究Agent](./学术研究Agent.md) | [academic-research-agent.md](./academic-research-agent.md) | 文献综述、提纲、研究结构 |
