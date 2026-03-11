@@ -61,20 +61,37 @@ If you are new, read:
 
 ---
 
+## Start with these 3 / 推荐先看这 3 个
+
+If you only try three packs first, start here:
+如果你只准备先试 3 个，优先从这几个开始：
+
+1. [Xiaohongshu Operator / 小红书运营助手](./agents/小红书运营助手.md)
+   - best for content drafting, titles, tags
+   - 适合内容起稿、标题和标签优化
+2. [Customer Support Assistant / 客服回复助手](./agents/客服回复助手.md)
+   - best for fast business use and customer-facing scenarios
+   - 适合客服场景，最容易直接落地
+3. [Project Manager Agent / 项目管理Agent](./agents/项目管理Agent.md)
+   - best for turning chaos into task lists and next actions
+   - 适合把混乱需求整理成任务和下一步动作
+
+---
+
 ## Open-source Packs / 当前开源包
 
-| Pack | What it helps with | Link |
-|------|--------------------|------|
-| Xiaohongshu Operator / 小红书运营助手 | Titles, post drafts, tags, cover ideas | [open](./agents/小红书运营助手.md) |
-| Xiaohongshu Leads Agent / 小红书获客Agent | Comments, DMs, conversion paths | [open](./agents/小红书获客Agent.md) |
-| Short Video Writer / 短视频创作Agent | Hooks, scripts, CTA | [open](./agents/短视频创作Agent.md) |
-| Customer Support Assistant / 客服回复助手 | Customer replies and support flow | [open](./agents/客服回复助手.md) |
-| Sales Follow-up Agent / 客服跟单Agent | Follow-up timing and conversion | [open](./agents/客服跟单Agent.md) |
-| Quote Generator / 报价单Agent | Professional quotations | [open](./agents/报价单Agent.md) |
-| Coding Assistant / 代码编程助手Agent | Code writing and debugging | [open](./agents/代码编程助手Agent.md) |
-| Data Analyst / 数据分析Agent | Metrics, insights, next steps | [open](./agents/数据分析Agent.md) |
-| Meeting Notes Agent / 会议纪要Agent | Meeting summaries and action items | [open](./agents/会议纪要Agent.md) |
-| Project Manager Agent / 项目管理Agent | Task breakdown, risks, next actions | [open](./agents/项目管理Agent.md) |
+| Pack | What it helps with | Chinese file | English alias |
+|------|--------------------|--------------|---------------|
+| Xiaohongshu Operator / 小红书运营助手 | Titles, post drafts, tags, cover ideas | [打开](./agents/小红书运营助手.md) | [open](./agents/xiaohongshu-operator.md) |
+| Xiaohongshu Leads Agent / 小红书获客Agent | Comments, DMs, conversion paths | [打开](./agents/小红书获客Agent.md) | [open](./agents/xiaohongshu-leads-agent.md) |
+| Short Video Writer / 短视频创作Agent | Hooks, scripts, CTA | [打开](./agents/短视频创作Agent.md) | [open](./agents/short-video-writer.md) |
+| Customer Support Assistant / 客服回复助手 | Customer replies and support flow | [打开](./agents/客服回复助手.md) | [open](./agents/customer-support-assistant.md) |
+| Sales Follow-up Agent / 客服跟单Agent | Follow-up timing and conversion | [打开](./agents/客服跟单Agent.md) | [open](./agents/sales-follow-up-agent.md) |
+| Quote Generator / 报价单Agent | Professional quotations | [打开](./agents/报价单Agent.md) | [open](./agents/quote-generator.md) |
+| Coding Assistant / 代码编程助手Agent | Code writing and debugging | [打开](./agents/代码编程助手Agent.md) | [open](./agents/coding-assistant.md) |
+| Data Analyst / 数据分析Agent | Metrics, insights, next steps | [打开](./agents/数据分析Agent.md) | [open](./agents/data-analyst.md) |
+| Meeting Notes Agent / 会议纪要Agent | Meeting summaries and action items | [打开](./agents/会议纪要Agent.md) | [open](./agents/meeting-notes-agent.md) |
+| Project Manager Agent / 项目管理Agent | Task breakdown, risks, next actions | [打开](./agents/项目管理Agent.md) | [open](./agents/project-manager-agent.md) |
 
 More guidance here / 更多说明看这里：
 - [Agent Index / Agent 列表](./agents/INDEX.md)

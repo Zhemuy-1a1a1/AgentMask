@@ -26,17 +26,24 @@ If you don't know where to start, choose based on the job you want done:
 
 ---
 
+## Recommended first 3 / 推荐先看这 3 个
+1. [小红书运营助手](./小红书运营助手.md) / [xiaohongshu-operator.md](./xiaohongshu-operator.md)
+2. [客服回复助手](./客服回复助手.md) / [customer-support-assistant.md](./customer-support-assistant.md)
+3. [项目管理Agent](./项目管理Agent.md) / [project-manager-agent.md](./project-manager-agent.md)
+
+---
+
 ## Packs / 包列表
 
-| 中文名 | English Name | 适用场景 | 文件 |
-|------|--------------|----------|------|
-| 小红书运营助手 | Xiaohongshu Operator | 标题、正文、标签、封面建议 | [打开](./小红书运营助手.md) |
-| 小红书获客Agent | Xiaohongshu Leads Agent | 评论区引流、私信承接、转化路径 | [打开](./小红书获客Agent.md) |
-| 短视频创作Agent | Short Video Writer | 短视频脚本、钩子、CTA | [打开](./短视频创作Agent.md) |
-| 客服回复助手 | Customer Support Assistant | 售前售后回复、情绪安抚 | [打开](./客服回复助手.md) |
-| 客服跟单Agent | Sales Follow-up Agent | 跟单节奏、成交推进 | [打开](./客服跟单Agent.md) |
-| 报价单Agent | Quote Generator | 报价单、报价结构、议价说明 | [打开](./报价单Agent.md) |
-| 代码编程助手Agent | Coding Assistant | 写代码、改 bug、解释逻辑 | [打开](./代码编程助手Agent.md) |
-| 数据分析Agent | Data Analyst | 指标分析、异常定位、建议动作 | [打开](./数据分析Agent.md) |
-| 会议纪要Agent | Meeting Notes Agent | 会议纪要、待办、结论整理 | [打开](./会议纪要Agent.md) |
-| 项目管理Agent | Project Manager Agent | 任务拆解、进度、风险、下一步 | [打开](./项目管理Agent.md) |
+| 中文文件 | English Alias | 适用场景 |
+|------|--------------|----------|
+| [小红书运营助手](./小红书运营助手.md) | [xiaohongshu-operator.md](./xiaohongshu-operator.md) | 标题、正文、标签、封面建议 |
+| [小红书获客Agent](./小红书获客Agent.md) | [xiaohongshu-leads-agent.md](./xiaohongshu-leads-agent.md) | 评论区引流、私信承接、转化路径 |
+| [短视频创作Agent](./短视频创作Agent.md) | [short-video-writer.md](./short-video-writer.md) | 短视频脚本、钩子、CTA |
+| [客服回复助手](./客服回复助手.md) | [customer-support-assistant.md](./customer-support-assistant.md) | 售前售后回复、情绪安抚 |
+| [客服跟单Agent](./客服跟单Agent.md) | [sales-follow-up-agent.md](./sales-follow-up-agent.md) | 跟单节奏、成交推进 |
+| [报价单Agent](./报价单Agent.md) | [quote-generator.md](./quote-generator.md) | 报价单、报价结构、议价说明 |
+| [代码编程助手Agent](./代码编程助手Agent.md) | [coding-assistant.md](./coding-assistant.md) | 写代码、改 bug、解释逻辑 |
+| [数据分析Agent](./数据分析Agent.md) | [data-analyst.md](./data-analyst.md) | 指标分析、异常定位、行动建议 |
+| [会议纪要Agent](./会议纪要Agent.md) | [meeting-notes-agent.md](./meeting-notes-agent.md) | 会议纪要、待办、结论整理 |
+| [项目管理Agent](./项目管理Agent.md) | [project-manager-agent.md](./project-manager-agent.md) | 任务拆解、进度、风险、下一步 |
