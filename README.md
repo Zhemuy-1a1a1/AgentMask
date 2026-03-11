@@ -23,28 +23,17 @@
 
 ---
 
-## Bilingual structure / 双语结构
-
-This repo is now organized into two language folders:
-这个仓库现在按语言拆成了两个目录：
-
-- 中文版：[`agents/zh-CN/`](./agents/zh-CN/)
-- English: [`agents/en/`](./agents/en/)
-
-So it looks cleaner for both Chinese and English users.
-这样中文用户和英文用户看起来都会更顺，不会一堆文件混在一起。
-
----
-
 ## What this repo is / 这个仓库是干什么的
 
 This repo gives you lightweight **one-file agent packs** for real work.
 Open a markdown file, paste it into your AI agent instructions, and start using it.
 
-这个仓库提供一批面向真实业务场景的 **单文件 Agent 包**。
+这个仓库提供一批面向真实场景的 **单文件 Agent 包**。
 打开一个 markdown 文件，把它贴进你的 AI Agent 指令区，就能开始使用。
 
-### Good fit if you want to / 如果你想做这些事，这个仓库适合你
+---
+
+## Good fit if you want to / 如果你想做这些事，这个仓库适合你
 - create content faster / 更快做内容
 - reply to customers better / 更稳地做客服回复
 - structure sales follow-up / 把跟单流程理顺
@@ -103,25 +92,23 @@ For the full list, see:
 
 ---
 
-## Public vs full version / 开源版和完整版的区别
+## Open-source vs upgraded versions / 开源版与升级版的区别
 
 This repo is the **lightweight public layer**.
-The full commercial version can include:
-- richer templates
-- SOPs
-- FAQ
-- examples
-- combo packs
-- industry custom versions
+If you want something stronger for real long-term use, the upgrade path is now:
+- **Standard version**
+- **Advanced (custom) version**
+
+Even after upgrading, the core product direction stays the same:
+**one agent = one core `.md` file**.
 
 这个仓库放的是**轻量公开层**。
-完整版商业包可包含：
-- 更完整模板
-- SOP
-- FAQ
-- 案例库
-- 组合包
-- 行业定制版
+如果你想拿去长期使用、减少反复训练、贴近真实业务，当前升级路径统一为：
+- **标准版**
+- **进阶（定制）版**
+
+无论升级到哪一层，核心产品方向都不变：
+**一个 Agent = 一个核心 md 文件。**
 
 See: [UPGRADE.md](./UPGRADE.md)
 

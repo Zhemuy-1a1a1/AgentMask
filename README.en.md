@@ -23,7 +23,7 @@ You just:
 - People building their own custom AI agents
 - People doing AI content, AI services, or AI monetization
 - People turning prompts into real deliverables
-- People who want to try a lightweight version before paying for a fuller workflow pack
+- People who want to try the open-source version first before upgrading
 
 ---
 
@@ -36,27 +36,11 @@ It is meant for:
 - lead generation
 - early workflow validation
 
-Current packs include:
-- Xiaohongshu Operator
-- Xiaohongshu Leads Agent
-- Short Video Writer
-- Customer Support Assistant
-- Sales Follow-up Agent
-- Quote Generator
-- Coding Assistant
-- Data Analyst
-- Meeting Notes Agent
-- Project Manager Agent
-
-See the full list here:
-[agents/INDEX.md](./agents/INDEX.md)
-
 ---
 
-## How to use this (beginner-friendly)
+## How to use this
 ### Step 1: Choose a pack
-If you want help with Xiaohongshu content, open:
-[Xiaohongshu Operator](./agents/zh-CN/小红书运营助手.md)
+Pick the scenario closest to your task.
 
 ### Step 2: Copy the whole file
 Copy the entire markdown file.
@@ -108,15 +92,14 @@ It is a packaged one-file agent starter.
 
 ---
 
-## Need something more complete?
+## Need something stronger?
 This repo is only the public lightweight layer.
-If you want something stronger for real business use, the extended version can include:
-- richer templates
-- SOPs
-- FAQ
-- examples
-- combo packs
-- industry-specific custom versions
+If you want a stronger version for real long-term use, the upgrade path is now:
+- **Standard version**
+- **Advanced (custom) version**
+
+Even after upgrading, the core product direction stays the same:
+**one agent = one core `.md` file**.
 
 See:
 [UPGRADE.md](./UPGRADE.md)
