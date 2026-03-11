@@ -14,6 +14,7 @@ If you don't know where to start, choose based on the job you want done:
 - code work → Coding Assistant
 - business analysis → Data Analyst
 - team execution → Meeting Notes Agent / Project Manager Agent
+- daily life → Fitness Coach / Travel Planner / Habit Check-in / English Speaking Coach / Reading Notes Assistant
 
 ### 中文
 如果你不知道先用哪个，就按你要解决的问题选：
@@ -23,17 +24,20 @@ If you don't know where to start, choose based on the job you want done:
 - 写代码 → 代码编程助手Agent
 - 看数据 → 数据分析Agent
 - 管项目 → 会议纪要Agent / 项目管理Agent
+- 生活向 → 健康健身 / 旅行规划 / 习惯打卡 / 英语口语 / 读书笔记
 
 ---
 
-## Recommended first 3 / 推荐先看这 3 个
+## Recommended first 5 / 推荐先看这 5 个
 1. [小红书运营助手](./小红书运营助手.md) / [xiaohongshu-operator.md](./xiaohongshu-operator.md)
-2. [客服回复助手](./客服回复助手.md) / [customer-support-assistant.md](./customer-support-assistant.md)
-3. [项目管理Agent](./项目管理Agent.md) / [project-manager-agent.md](./project-manager-agent.md)
+2. [旅行规划Agent](./旅行规划Agent.md) / [travel-planner-agent.md](./travel-planner-agent.md)
+3. [健康健身Agent](./健康健身Agent.md) / [健康健身-coach.md](./健康健身-coach.md)
+4. [客服回复助手](./客服回复助手.md) / [customer-support-assistant.md](./customer-support-assistant.md)
+5. [项目管理Agent](./项目管理Agent.md) / [project-manager-agent.md](./project-manager-agent.md)
 
 ---
 
-## Packs / 包列表
+## Business / 商务向
 
 | 中文文件 | English Alias | 适用场景 |
 |------|--------------|----------|
@@ -47,3 +51,15 @@ If you don't know where to start, choose based on the job you want done:
 | [数据分析Agent](./数据分析Agent.md) | [data-analyst.md](./data-analyst.md) | 指标分析、异常定位、行动建议 |
 | [会议纪要Agent](./会议纪要Agent.md) | [meeting-notes-agent.md](./meeting-notes-agent.md) | 会议纪要、待办、结论整理 |
 | [项目管理Agent](./项目管理Agent.md) | [project-manager-agent.md](./project-manager-agent.md) | 任务拆解、进度、风险、下一步 |
+
+---
+
+## Lifestyle / 生活向
+
+| 中文文件 | English Alias | 适用场景 |
+|------|--------------|----------|
+| [健康健身Agent](./健康健身Agent.md) | [健康健身-coach.md](./健康健身-coach.md) | 训练、饮食、轻量打卡 |
+| [旅行规划Agent](./旅行规划Agent.md) | [travel-planner-agent.md](./travel-planner-agent.md) | 出行方案、预算、清单 |
+| [习惯打卡Agent](./习惯打卡Agent.md) | [habit-checkin-agent.md](./habit-checkin-agent.md) | 习惯养成、打卡、复盘 |
+| [英语口语陪练Agent](./英语口语陪练Agent.md) | [english-speaking-coach.md](./english-speaking-coach.md) | 日常口语、陪练、纠错 |
+| [读书笔记助手](./读书笔记助手.md) | [reading-notes-assistant.md](./reading-notes-assistant.md) | 读书笔记、摘要、行动点 |

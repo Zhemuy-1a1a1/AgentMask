@@ -69,12 +69,12 @@ If you only try three packs first, start here:
 1. [Xiaohongshu Operator / 小红书运营助手](./agents/小红书运营助手.md)
    - best for content drafting, titles, tags
    - 适合内容起稿、标题和标签优化
-2. [Customer Support Assistant / 客服回复助手](./agents/客服回复助手.md)
+2. [Travel Planner Agent / 旅行规划Agent](./agents/旅行规划Agent.md)
+   - best for lifestyle use and easy first-time experience
+   - 适合生活化使用，最适合第一次试
+3. [Customer Support Assistant / 客服回复助手](./agents/客服回复助手.md)
    - best for fast business use and customer-facing scenarios
    - 适合客服场景，最容易直接落地
-3. [Project Manager Agent / 项目管理Agent](./agents/项目管理Agent.md)
-   - best for turning chaos into task lists and next actions
-   - 适合把混乱需求整理成任务和下一步动作
 
 ---
 
@@ -160,3 +160,14 @@ You may **not** directly resell the open-source version for commercial use.
 
 你可以学习、改写、传播（需署名），
 但**不能**直接把开源版拿去商用倒卖。
+
+
+### Lifestyle / 生活向
+
+| Pack | What it helps with | Chinese file | English alias |
+|------|--------------------|--------------|--------------- |
+| Fitness Coach / 健康健身Agent | Workout, diet, and habit planning | [打开](./agents/健康健身Agent.md) | [open](./agents/健康健身-coach.md) |
+| Travel Planner Agent / 旅行规划Agent | Travel planning, budget, packing list | [打开](./agents/旅行规划Agent.md) | [open](./agents/travel-planner-agent.md) |
+| Habit Check-in Agent / 习惯打卡Agent | Habit tracking and accountability | [打开](./agents/习惯打卡Agent.md) | [open](./agents/habit-checkin-agent.md) |
+| English Speaking Coach / 英语口语陪练Agent | Daily speaking practice | [打开](./agents/英语口语陪练Agent.md) | [open](./agents/english-speaking-coach.md) |
+| Reading Notes Assistant / 读书笔记助手 | Reading notes and action takeaways | [打开](./agents/读书笔记助手.md) | [open](./agents/reading-notes-assistant.md) |
