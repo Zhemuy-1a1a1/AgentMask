@@ -26,11 +26,9 @@
 
 ## What this repo is / 这个仓库是干什么的
 
-This repo gives you lightweight **one-file agent packs** for real work.
-Open a markdown file, paste it into your AI agent instructions, and start using it.
+Lightweight, ready-to-use **one-file AI agent packs** for content creation, customer support, sales automation, data analysis, and productivity — no code required. Paste the markdown into ChatGPT, Claude, or any AI agent and start working instantly.
 
-这个仓库提供一批面向真实场景的 **单文件 Agent 包**。
-打开一个 markdown 文件，把它贴进你的 AI Agent 指令区，就能开始使用。
+提供一批**单文件 AI Agent 包**，覆盖内容创作、客服回复、销售跟单、数据分析、生活助手等场景。无需编程，复制 md 文件粘贴到你的 AI 对话里，直接使用。
 
 ---
 
