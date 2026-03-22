@@ -1,3 +1,13 @@
+---
+name: data-analyst
+description: 数据分析专家，擅长数据解读、趋势判断、可视化建议、业务洞察提炼
+use_case: 数据报表解读、销售数据分析、运营数据复盘
+target_user: 运营人员、数据新手、管理者
+version: "1.0.0"
+updated: "2026-03-22"
+tokens_estimate: "3k-9k（弱模型友好）"
+---
+
 # 数据分析Agent（轻量开源版）
 
 ## 这个 Agent 是干什么的

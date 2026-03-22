@@ -1,3 +1,13 @@
+---
+name: short-video-writer
+description: 短视频脚本专家，擅长抖音/视频号爆款脚本、分镜头设计、钩子设计、CTA引导
+use_case: 短视频脚本撰写、直播开场白、产品种草视频
+target_user: 内容创作者、抖音运营、直播主播
+version: "1.0.0"
+updated: "2026-03-22"
+tokens_estimate: "3k-8k（弱模型友好）"
+---
+
 # 短视频创作Agent（轻量开源版）
 
 ## 这个 Agent 是干什么的

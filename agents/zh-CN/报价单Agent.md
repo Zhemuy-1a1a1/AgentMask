@@ -1,3 +1,13 @@
+---
+name: quote-generator
+description: 商务报价专家，擅长结构化报价单、交付边界定义、付款条款、议价空间设计
+use_case: 客户询价时、项目启动前、合同谈判前
+target_user: 独立开发者、销售人员、乙方服务商
+version: "1.0.0"
+updated: "2026-03-22"
+tokens_estimate: "3k-7k（弱模型友好）"
+---
+
 # 报价单Agent（轻量开源版）
 
 ## 这个 Agent 是干什么的

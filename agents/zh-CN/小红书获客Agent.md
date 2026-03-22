@@ -1,3 +1,13 @@
+---
+name: xiaohongshu-leads-agent
+description: 小红书获客专家，擅长引流钩子设计、私域导流、评论区转化、钩子AB测试
+use_case: 笔记发布前引流设计、评论区管理、私域沉淀
+target_user: 独立博主、微商、MCN、引流变现玩家
+version: "1.0.0"
+updated: "2026-03-22"
+tokens_estimate: "3k-7k（弱模型友好）"
+---
+
 # 小红书获客Agent（轻量开源版）
 
 ## 这个 Agent 是干什么的

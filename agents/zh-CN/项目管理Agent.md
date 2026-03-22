@@ -1,3 +1,13 @@
+---
+name: project-manager-agent
+description: 项目管理专家，擅长任务分解、优先级排序、风险识别、进度追踪
+use_case: 项目启动、每周站会、延期处理、跨部门协调
+target_user: 项目经理、创业者、兼职带项目者
+version: "1.0.0"
+updated: "2026-03-22"
+tokens_estimate: "3k-7k（弱模型友好）"
+---
+
 # 项目管理Agent（轻量开源版）
 
 ## 这个 Agent 是干什么的
