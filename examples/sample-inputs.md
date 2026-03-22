@@ -1,63 +1,92 @@
 # Sample Inputs / 示例输入
 
-## English
+> 每个 Agent 的真实使用场景示例。用户会实际输入什么内容？以下是3个核心 Agent 的具体场景输入。
 
-### Xiaohongshu Operator
-```text
-Positioning: nutrition content creator
-Audience: women age 25-35
-Topic: low-cost ways to improve energy level
-Style: warm and practical
-Goal: engagement + private leads
-Need cover suggestion: yes
+---
+
+## 小红书运营助手
+
+### 场景一：护肤品种草
+```
+账号定位：成分党护肤博主
+目标人群：20-30岁女生，关注成分安全
+选题方向：早C晚A搭配教程
+文风要求：专业但不晦涩，有使用感分享
+目标：互动咨询 + 引流私域
+封面要求：要有关键词"早C晚A"
 ```
 
-### Customer Support Assistant
-```text
-Customer message: Why is shipping so slow? I've been waiting for 3 days.
-Product info: digital product, normally delivered within 24h
-Stage:售后 / after-sales
-Goal: calm down customer and explain timeline
-Brand tone: friendly, reliable
+### 场景二：本地餐饮引流
+```
+账号定位：杭州本地美食探店号
+目标人群：在杭州的年轻人（22-35岁）
+选题：城西银泰附近人均50以内的宝藏小店
+文风：接地气，像朋友推荐
+目标：收藏+到店转化
+是否有商家合作：无，自营
 ```
 
-### Project Manager Agent
-```text
-Project name: Agent pack open-source launch
-Goal: launch GitHub repo + Xiaohongshu post + Douyin video
-Milestones: repo ready, first post live, comments handled
-Resources: one operator, existing markdown assets
-Deadline: this week
-Current issue: too many materials, need prioritization
+---
+
+## 客服回复助手
+
+### 场景一：售前咨询（数字产品）
+```
+客户原话：你好，请问这个AI提示词包适合ChatGPT用还是Claude用？
+产品信息：单文件Agent模板，通用格式，ChatGPT/Claude/Kimi均可用
+当前阶段：售前
+回复目标：解答疑惑，引导下单
+品牌语气：专业、耐心、不强推
 ```
 
-## 中文
-
-### 小红书运营助手
-```text
-账号定位：营养健康博主
-目标人群：25-35岁女生
-选题：低成本养气血
-文风：温柔实用
-目标：互动 + 私信咨询
-是否需要封面建议：需要
+### 场景二：售后投诉（发货延迟）
+```
+客户原话：都两天了还没收到，你们是不是骗人的？
+产品信息：数字资料，正常24小时内发送百度网盘链接
+当前阶段：售后
+回复目标：先安抚情绪，再解释原因，给出解决方案
+品牌语气：诚恳、快速、不推卸
 ```
 
-### 客服回复助手
-```text
-客户原话：怎么这么慢，我都等三天了
-产品/服务信息：数字资料，通常24小时内发出
-当前状态：售后
-回复目标：先安抚，再解释时效
-品牌语气：友好、靠谱
+### 场景三：议价拉扯
+```
+客户原话：便宜点吧，80块行不行？
+产品信息：标准版Agent包定价149元
+当前阶段：售前议价
+回复目标：守住价格，但不直接拒绝，提供附加价值
+品牌语气：坚定但友好
 ```
 
-### 项目管理Agent
-```text
-项目名称：Agent 包开源发布
-项目目标：完成 GitHub 仓库 + 小红书发布 + 抖音发布
-里程碑：仓库就绪、首篇笔记发布、首条视频发布
-人员/资源：1人，已有 markdown 材料
-截止时间：本周内
-当前问题：材料多，优先级不清晰
+---
+
+## 报价单Agent
+
+### 场景一：软件开发报价
+```
+客户需求：帮我做一个简单的库存管理系统，Web界面，可以增删改查
+行业：小型五金店（10人左右）
+常用工具：Excel，目前用Excel表格管理库存
+预算提示：客户没有明确说预算
+交货时间：希望越快越好
+特殊要求：不需要登录系统，操作要简单
+```
+
+### 场景二：活动策划报价
+```
+客户需求：帮我策划一场公司年会，50人，半天时间
+公司类型：互联网创业公司（30人）
+以往活动：有年终聚餐，但规模较小
+预算提示：老板说"别太贵"
+时间：春节前一个月
+特殊要求：要有人人互动环节，不要只是吃饭看节目
+```
+
+### 场景三：短视频脚本报价
+```
+客户需求：帮我写5条30秒的带货脚本，产品是宠物自动饮水机
+目标平台：抖音
+产品卖点：静音、不漏电、分层水循环
+目标：引导点击购物车
+客群：养猫新手，25-35岁女生
+预算提示：说"先看看"
 ```
